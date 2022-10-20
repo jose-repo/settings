@@ -1,0 +1,7 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="db2.11">
+      <artifact id="DB2" name="DB2" use="true" version="4.26.14" />
+    </driver>
+  </component>
+</application>
